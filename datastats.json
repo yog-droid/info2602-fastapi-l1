@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "name": "UWI to Sal Hall",
+        "status": "IN_TRANSIT",
+        "speed_kmh": 32.5,
+        "current_driver": {
+            "id": 12,
+            "name": "A. Mohammed"
+        },
+        "vehicle_details": {
+            "id": "1",
+            "reg": "TDY-1234",
+            "capacity": 25,
+            "has_aircon": true,
+            "has_wifi": false
+        },
+        "history": [
+            {
+                "id": 1,
+                "shuttle_id": 1,
+                "last_seen": "2026-01-23T13:45:12Z",
+                "latitude": 10.637210,
+                "longitude": -61.409832
+            },
+            {
+                "id": 2,
+                "shuttle_id": 1,
+                "last_seen": "2026-01-23T13:50:12Z",
+                "latitude": 10.639021,
+                "longitude": -61.405214
+            },
+            {
+                "id": 3,
+                "shuttle_id": 1,
+                "last_seen": "2026-01-23T13:55:12Z",
+                "latitude": 10.641114,
+                "longitude": -61.401002
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "UWI to Mt Hope",
+        "status": "STOPPED",
+        "speed_kmh": 0,
+        "current_driver": {
+            "id": 18,
+            "name": "R. Singh"
+        },
+        "vehicle_details": {
+            "id": "2",
+            "reg": "PCZ-4421",
+            "capacity": 30,
+            "has_aircon": true,
+            "has_wifi": true
+        },
+        "history": [
+            {
+                "id": 4,
+                "shuttle_id": 2,
+                "last_seen": "2026-01-23T13:40:00Z",
+                "latitude": 10.634882,
+                "longitude": -61.418993
+            },
+            {
+                "id": 5,
+                "shuttle_id": 2,
+                "last_seen": "2026-01-23T13:45:00Z",
+                "latitude": 10.632441,
+                "longitude": -61.421774
+            },
+            {
+                "id": 6,
+                "shuttle_id": 2,
+                "last_seen": "2026-01-23T13:50:00Z",
+                "latitude": 10.631118,
+                "longitude": -61.424301
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "UWI to Curepe",
+        "status": "OUT_OF_SERVICE",
+        "speed_kmh": 0,
+        "current_driver": null,
+        "vehicle_details": {
+            "id": "3",
+            "reg": "HBU-8890",
+            "capacity": 20,
+            "has_aircon": false,
+            "has_wifi": false
+        },
+        "history": [
+            {
+                "id": 7,
+                "shuttle_id": 3,
+                "last_seen": "2026-01-23T12:30:10Z",
+                "latitude": 10.631218,
+                "longitude": -61.415992
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "UWI to Tunapuna",
+        "status": "IN_TRANSIT",
+        "speed_kmh": 41.2,
+        "current_driver": {
+            "id": 25,
+            "name": "K. Lewis"
+        },
+        "vehicle_details": {
+            "id": "4",
+            "reg": "PDD-7721",
+            "capacity": 28,
+            "has_aircon": true,
+            "has_wifi": true
+        },
+        "history": [
+            {
+                "id": 8,
+                "shuttle_id": 4,
+                "last_seen": "2026-01-23T13:42:58Z",
+                "latitude": 10.642773,
+                "longitude": -61.398441
+            },
+            {
+                "id": 9,
+                "shuttle_id": 4,
+                "last_seen": "2026-01-23T13:47:58Z",
+                "latitude": 10.646109,
+                "longitude": -61.394118
+            },
+            {
+                "id": 10,
+                "shuttle_id": 4,
+                "last_seen": "2026-01-23T13:52:58Z",
+                "latitude": 10.649221,
+                "longitude": -61.390002
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "UWI to Arima",
+        "status": "IN_TRANSIT",
+        "speed_kmh": 55.8,
+        "current_driver": {
+            "id": 31,
+            "name": "S. Ramdial"
+        },
+        "vehicle_details": {
+            "id": "5",
+            "reg": "TDT-9087",
+            "capacity": 35,
+            "has_aircon": true,
+            "has_wifi": false
+        },
+        "history": [
+            {
+                "id": 11,
+                "shuttle_id": 5,
+                "last_seen": "2026-01-23T13:35:22Z",
+                "latitude": 10.650332,
+                "longitude": -61.382114
+            },
+            {
+                "id": 12,
+                "shuttle_id": 5,
+                "last_seen": "2026-01-23T13:40:22Z",
+                "latitude": 10.657441,
+                "longitude": -61.374991
+            },
+            {
+                "id": 13,
+                "shuttle_id": 5,
+                "last_seen": "2026-01-23T13:45:22Z",
+                "latitude": 10.664882,
+                "longitude": -61.368771
+            }
+        ]
+    }
+]
